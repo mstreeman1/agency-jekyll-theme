@@ -9,16 +9,17 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Ms.treeMan
+- name: Gyro Gearloose
   pic: 1
   position: Lead Designer
 
-- name: Ms.treeMan
+- name: Donald Duck
   pic: 2
   position: Lead Marketer
   
-- name: Ms.treeMan
+- name: Daffy Duck
   pic: 3
+  position: Lead Programmer
 
 
 # Postal address (add as many lines as necessary)
