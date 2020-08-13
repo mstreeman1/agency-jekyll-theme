@@ -1,5 +1,5 @@
 ---
-title: <a href="./1.html">on life</a>
+title: <a href="./1.md">on life</a>
 subtitle: Rant
 layout: default
 modal-id: 1
