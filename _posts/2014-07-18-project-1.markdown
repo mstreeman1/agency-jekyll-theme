@@ -1,5 +1,5 @@
 ---
-title: [On Life?](./1.html)
+title: hi
 subtitle: Rant
 layout: default
 modal-id: 1
