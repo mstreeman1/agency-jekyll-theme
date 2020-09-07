@@ -2,7 +2,7 @@
 layout: pages
 title: "ol"
 url: https://mstreeman1.github.io
-baseurl: /ms.treeman/
+baseurl: /ms.treeman/ol.html
 ---
 
 
