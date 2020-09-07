@@ -29,4 +29,4 @@ A Coup d'état."
 <br/>
 ZNGURJ WBUA
 
-[Home](./)
+[Home](.//)
