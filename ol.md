@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: default
 title: "ol"
 url: https://mstreeman1.github.io
 baseurl: /ms.treeman/ol
