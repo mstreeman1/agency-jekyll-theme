@@ -1,7 +1,8 @@
 ---
 layout: pages
 title: "ol"
-permalink: https://mstreeman1.github.io/ms.treeman/ol.html
+url: https://mstreeman1.github.io
+baseurl: /ms.treeman/
 ---
 
 
